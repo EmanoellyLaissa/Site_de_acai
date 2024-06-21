@@ -1,0 +1,39 @@
+<html>
+<meta charset="utf-8">
+	<head>
+		<img src="banner" height="50%" width="100%"></>
+		<h1 style="color:cyan;" align="center">Açaí do Brasil</h1>
+		<img src="copo" height="30%" width="20%" align="center"></>
+
+	</head>
+
+	<body style="color:purple;>
+		<h2 style="color:cyan;" align="center">Sobre</h2>
+
+
+			<p style="color:green;" align="justify">O Açaí do Brasil surgiu da ideia de inovar no conceito em servir açaí, combinado a um ambiente característico. Juntou-se a idéia do nome, várias opções de açaí a um buffet selecionado com os melhores toppings. Motivados pelos sentimentos que incentivam a viver melhor, o Açaí do Brasil chegou com um espaço planejado em cada detalhe para você.
+
+
+			<p style="color:green;" align="justify">O Açaí e seus benefícios atrai a cada dia mais amantes da fruta da Amazônia e nós trazemos para você um empório repleto de opções para degustar o seu açaí. Poderoso no combate ao envelhecimento, repositor de vitaminas e eletrólitos, coadjuvante no crescimento, antioxidante, diminui o colesterol e faz seu papel na manutenção de um coração saudável - Açaí é saúde, açaí é vida, traz benefícios indiscutíveis para quem ingere! Somos um empório interessados em servir com altruísmo e competência, fazendo nosso papel para um mundo melhor.</P>
+
+			<br></br>
+
+		<h2 style="color:fuchsia;" align="center">Nossos Produtos</h2>
+			<p style="color:aqua;" align="left">Shakes<br/>
+Shake Banana e Farinha Láctea.<br/>Shake Cereal.<br/>Shake Chocomenta.<br/>Shake Energético Power.<br/>Shake Morangomaltine.<br/>Shake Negresco.<br/>Shake Ninho.<br/>Shake Nutella.<br/>Shake Nutella com Ovomaltine.<br/>Shake Ouro Branco.</p>
+
+			<br></br>
+
+			<p style="color:aqua;" align="right">Pote Brasil<br/>
+Pote de Energia.<br/>Pote da Felicidade.<br/>Pote da Saúde.<br/>Pote do Sucesso.<br/>Pote Dois Amores.</p>
+
+	</body>
+
+	<footer>
+
+	<p style="color:aqua;" align="center">Feito por: Emma Santos</p>
+	<p style="color:aqua;" align="left">E-mail: <a style="color:white;" href="mailto:emma26@hosting.com.br"> emma26@hosting.com.br </a> </p>
+
+	</footer>
+
+</html>
