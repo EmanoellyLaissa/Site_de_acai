@@ -4,6 +4,7 @@
 		<img src="banner" height="50%" width="100%"></>
 		<h1 style="color:cyan;" align="center">Açaí do Brasil</h1>
 		<img src="copo" height="30%" width="20%" align="center"></>
+		<title>Açaí do Brasil</title>
 
 	</head>
 
@@ -37,3 +38,4 @@ Pote de Energia.<br/>Pote da Felicidade.<br/>Pote da Saúde.<br/>Pote do Sucesso
 	</footer>
 
 </html>
+
